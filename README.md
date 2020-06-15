@@ -1,0 +1,2 @@
+# opencv_SIFT
+基于openCV的SIFT特征的图像提取和图像检索
